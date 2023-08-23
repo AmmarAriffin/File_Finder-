@@ -1,0 +1,7 @@
+
+*.pyc
+test/A/.DS_Store
+*.pyc
+test/A/.DS_Store
+__pycache__/Explorer.cpython-311.pyc
+__pycache__/GoogleSearchGUI.cpython-311.pyc
